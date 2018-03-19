@@ -1,5 +1,5 @@
 # identiconGAN
-Generate GitHub style Identicons with a Generative Adversarial Network
+Generate GitHub style Identicons with a Generative Adversarial Network. Trained models are included and can be sampled with `sample.py`. Both GPU and CPU are supported for model sampling.
 
 <p align="center">
 <img src="/images/fake.jpg" width="500"><br>
