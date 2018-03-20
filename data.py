@@ -6,7 +6,7 @@ num_examples = 5000
 
 def generate_identicon(f):
     # generate random github-like identicons 
-    # random matricies are used instead of hashing
+    # random matrices are used instead of hashing
     px_color = np.random.randint(0, 256, size=(3))
     bg_color = 240
 
